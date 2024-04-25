@@ -1,0 +1,2 @@
+This is File 1
+Created and edited with VS code
